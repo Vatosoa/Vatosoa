@@ -2,10 +2,10 @@
   <h2> Hi, I am Vatosoa <img src="https://media.giphy.com/media/TeWayL93wK25Dn46yu/giphy.gif" width="50"></h2>
 </div>
 
-[![Twitter: @VRazafindrazaka]()](https://twitter.com/VRazafindrazaka)
-[![Linkedin: Vatosoa Razafindrazaka]()](https://www.linkedin.com/in/vatosoa-razafindrazaka/)
-[![GitHub Vatosoa]()](https://github.com/Vatosoa)
-[![Facebook Vatosoa Razafindrazaka]()](https://web.facebook.com/geekas.v/)
+[![Twitter: @VRazafindrazaka](https://img.shields.io/twitter/follow/VRazafindrazaka?style=social)](https://twitter.com/VRazafindrazaka)
+[![Linkedin: Vatosoa Razafindrazaka](https://img.shields.io/badge/vatosoa-razafindrazaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vatosoa-razafindrazaka/)](https://www.linkedin.com/in/vatosoa-razafindrazaka/)
+[![GitHub Vatosoa](https://img.shields.io/github/followers/Vatosoa?label=follow&style=social)](https://github.com/Vatosoa)](https://github.com/Vatosoa)
+[![Facebook Vatosoa Razafindrazaka](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook&style=social)(https://web.facebook.com/geekas.v/)
 
 I'm a FullStack developer and Data Science researcher, and I strongly believe in making everyday life easier through coding and problem-solving. My main goal is to help improve society using technology. I work with a variety of technologies like Python, Machine Learning, JavaScript, Java, C++, Qt, NodeJS, and NLP. I've started projects to make technology more accessible. For instance, Kiregnina is a fun way to show that learning through games and coding can be effective.
 
