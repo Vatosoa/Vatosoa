@@ -8,7 +8,7 @@
 
 </div>
 
-I'm from Madagascar. I'm a FullStack developer and Data Science researcher. I strongly believe in making everyday life easier through coding and problem-solving. My main goal is to help improve society using technology. I work with a variety of technologies like Python, Machine Learning, JavaScript, Java, C++, Qt, NodeJS, and NLP. I've started projects to make technology more accessible. For instance, Kiregnina is a fun way to show that learning through games and coding can be effective.
+I'm a FullStack developer and Data Science researcher, and I strongly believe in making everyday life easier through coding and problem-solving. My main goal is to help improve society using technology. I work with a variety of technologies like Python, Machine Learning, JavaScript, Java, C++, Qt, NodeJS, and NLP. I've started projects to make technology more accessible. For instance, Kiregnina is a fun way to show that learning through games and coding can be effective.
 
 ## Summary of some languages and tools 🌎:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
