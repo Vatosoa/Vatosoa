@@ -8,19 +8,8 @@
 -->
 </div>
 
-I'm an AI researcher specializing in NLP for low-resource languages. My main goal is to help improve society using technology. I work with a variety of technologies like <kbd>Python</kbd> <kbd>Machine Learning</kbd> <kbd>JavaScript</kbd> <kbd>NodeJS</kbd> and <kbd>NLP</kbd>. I've started projects to make technology more accessible. For instance, Kiregnina is a fun way to show that learning through games and coding can be effective.
+I'm an AI researcher specializing in NLP for low-resource languages. My main goal is to help improve society using technology. I work with a variety of technologies like <kbd>Python</kbd> <kbd>Django</kbd> <kbd>NLP</kbd> <kbd>Web Scraping</kbd> and <kbd>Odoo</kbd>. I've started projects to make technology more accessible. For instance, Kiregnina is a fun way to show that learning through games and coding can be effective.
 
-## Summary of some languages and tools :
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <div>
   <a href="https://www.buymeacoffee.com/vatosoa" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25" width="90" style="float:right">
